@@ -51,5 +51,5 @@ print (f"\n Triangle t1 before scale: {t1.display_triangle()} ")
 t1.scale(3)
 print (f"\n Triangle t1 after scale: {t1.display_triangle()}")
 
-print("\n Ther is oll Triangles ↓")
+print("\n Ther is all Triangles ↓")
 Triangle.display_all_triangles()

@@ -68,7 +68,7 @@ class Triangle:
             print(t)
  
 # створення  трикутників
-t1 = Triangle(3, 4, 5)
+t1 = Triangle(10, 10, 10)
 t2 = Triangle(5, 12, 13)
 t3 = Triangle(6, 8, 10)
 

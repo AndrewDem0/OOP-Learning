@@ -72,7 +72,7 @@ private:
 std::vector<Triangle*> Triangle::list_of_items;
 
 int main() {
-    Triangle t1(3, 4, 5);
+    Triangle t1(10, 10, 10);
     Triangle t2(5, 12, 13);
     Triangle t3(6, 8, 10);
 

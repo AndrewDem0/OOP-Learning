@@ -1,0 +1,26 @@
+# Ігноруємо папку для віртуального середовища Python
+venv/
+.env
+
+# Ігноруємо кеш-файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ігноруємо файли операційних систем
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ігноруємо файли IDE та редакторів коду
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+
+# Ігноруємо залежності, якщо використовуєте poetry або pipenv
+poetry.lock
+Pipfile.lock
